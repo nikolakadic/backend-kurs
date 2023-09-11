@@ -1,3 +1,8 @@
+"""
+Klasa koja oponasa auto
+"""
+
+
 class Car:
     def __init__(self, fuel, brand, power):
         self.fuel = fuel
