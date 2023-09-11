@@ -1,5 +1,5 @@
 """
-Klasa koja oponasa auto
+Klasa koja oponasa auto...
 """
 
 
